@@ -1,0 +1,17 @@
+.covid-details {
+    margin: 50px;
+    
+}
+
+.c-data {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.c-data div {
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: rgba(230, 224, 224, 0.404);
+}
