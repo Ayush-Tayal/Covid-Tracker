@@ -6,6 +6,7 @@
 .c-data {
     display: flex;
     justify-content: space-between;
+    margin-top: 2%;
     
 }
 
@@ -14,4 +15,8 @@
     padding: 20px;
     border-radius: 8px;
     background-color: rgba(230, 224, 224, 0.404);
+}
+
+.select {
+    color: black;
 }
